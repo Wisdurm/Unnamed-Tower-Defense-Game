@@ -1,0 +1,61 @@
+
+1. First round, many weak enemies slowly come
+2. Lots of enemies
+3. Same amount of enemies but noticably more bunched up at first
+4. First enemy1
+5. Longest round so far
+6. Lots of enemy 0s
+7. First "thick" enemy chunck, and also first enemy2
+8. Multiple thick chunks, to prepare the player for the next round
+9. Very long thick enemy line, and three enemy2s
+10. Many 2s, then 1s and then 0s, with their spacing getting shorter and shorter
+11. Lots of 1s and a few 2s, no 0s
+12. Three "chunks", made up of a 2 surrounded very closely by multiple 0s, the last chunk being the strongest
+13. VERY thick line of 1s
+14. Lots of 1s and 2s
+15. First 3s, the first fast ones
+16. LOTS of 3s
+17. Two very thick and long lines of 1s, interspersed with some 2s
+18. Lots of 1s and 2s, in very thick lines
+19. Lots of 3s, then 2s, 1s, 0s and 3s with ever increasing thickness
+20. Lots of 3s followed by the first 7
+21. Lots of 2s and 1s in thick lines
+22. LOTS of 0s and 1s in VERY thick lines, followed by 2s and 3s in quite thick lines
+23. First 4s, in a big wave of ten, along with six 3s and three 7s
+24. Lots of interspersed 2s and 3s, after which lots of 4s
+25. Lots of 4s and 7s
+26. Lots of 4s, after which the first 5s, in a pack of five
+27. Three thick waves of 4s
+28. Four 5s
+29. Ten of every enemy up to this point (except 7) in one very thick line
+30. 6
+31. Long line of 4s followed by 7s
+32. Long thick line of 4s, followed by lots of 5s
+33. Three "chunks", made up of a 5 surrounded very closely by multiple 4s, the last chunk being the strongest
+34. Lots of 5s
+35. 6 x2
+36. Line of every enemy up to this point (except 5 & 7) which gets getting thicker until it is EXTREMELY DENSE
+37. Ten 4s and ten 7s
+38. Ten 5s
+39. A very long and thick line of 7s
+40. Two 6s, both followed by a line of six 5s
+41. Twenty-five 7s
+42. Two short but thick lines of 5s, with a long line of 4s in the middle
+43. Long line of 5s, which keeps getting thicker
+44. Long thick line of 4s
+45. 6 x3
+46. Long line of 4s with 7s hidden among them
+47. Lots of 5s
+48. Multiple thick lines of 4s interspersed with 5s and one 6 to finish off the round
+49. Thick line of 5s
+50. 6 x4
+51. Lines of 4s and 5s, both EXTREMELY dense
+52. First 8s, in a group of three
+53. Four 6s and four 5s
+54. Fifteen 7s followed by five 8s
+55. Three thick waves of 5s followed by a thick wave of 6s
+56. Lots of 8s
+57. Lots of 5s followed by the first 10
+58. Two thick lines of 5s with a line of 6s in the middle
+59. VERY VERY long line of 5s which keeps getting more and more dense
+60. A few 10s

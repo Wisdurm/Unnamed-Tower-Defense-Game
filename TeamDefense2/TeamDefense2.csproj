@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="data\beginner.map" />
+    <None Remove="data\Cross Stream.map" />
+    <None Remove="data\erosion.map" />
+    <None Remove="data\hel.map" />
+    <None Remove="data\magma.map" />
+    <None Remove="data\map.map" />
+    <None Remove="data\matskuko1.map" />
+    <None Remove="data\Rocky shore.map" />
+    <None Remove="data\rounds.dat" />
+    <None Remove="data\sand.map" />
+    <None Remove="data\Shallow Waters.map" />
+    <None Remove="data\slate.map" />
+    <None Remove="entitiesTexture.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="data\beginner.map" />
+    <EmbeddedResource Include="data\Cross Stream.map" />
+    <EmbeddedResource Include="data\entitiesTexture.json" />
+    <EmbeddedResource Include="data\erosion.map" />
+    <EmbeddedResource Include="data\magma.map" />
+    <EmbeddedResource Include="data\matskuko1.map" />
+    <EmbeddedResource Include="data\Rocky shore.map" />
+    <EmbeddedResource Include="data\rounds.dat" />
+    <EmbeddedResource Include="data\sand.map" />
+    <EmbeddedResource Include="data\Shallow Waters.map" />
+    <EmbeddedResource Include="data\slate.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sayers.SDL2.Core" Version="1.0.11" />
+  </ItemGroup>
+
+</Project>
