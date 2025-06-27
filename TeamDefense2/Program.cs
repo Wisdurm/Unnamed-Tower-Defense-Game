@@ -1236,7 +1236,6 @@ namespace TeamDefense2
         /// <returns>Distance between to points</returns>
         public static int Distance(int x, int y, int x2, int y2)
         {
-            //I'll get better at programming someday...
             int xDif = Math.Abs(x - x2);
             int yDif = Math.Abs(y - y2);
             return xDif + yDif; //Maybe?
